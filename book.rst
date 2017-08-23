@@ -33,7 +33,7 @@
 
    |
    | Latest version - |date|
-   | DOI: `10.5281/zenodo.225783 <http://doi.org/10.5281/zenodo.225783>`_
+   | 
 
 .. ----------------------------------------------------------------------------
 .. container:: title-logos
@@ -90,7 +90,7 @@ correct it as soon as you tell me.
 .. include:: 26-Five-Stages.rst
 .. include:: 27-The-Mint.rst
 .. include:: 28-Freedom.rst
-
+.. include:: References.rst
 
 
 .. --- Compilation ------------------------------------------------------------
