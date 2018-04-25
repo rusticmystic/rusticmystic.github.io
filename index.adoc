@@ -7,7 +7,7 @@ ____
 
 :home: index.html[Home]
 :bookrst: index_rst.html[Book Sample 1]
-:bookadoc: index_rst.html[Book Sample 2]
+:bookadoc: index_adoc.html[Book Sample 2]
 
 [.main-menu]
 |===
