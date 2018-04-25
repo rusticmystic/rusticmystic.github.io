@@ -1,0 +1,67 @@
+[[preface]]
+Preface
+-------
+
+[[about-the-author]]
+About the author
+~~~~~~~~~~~~~~~~
+
+Shivdeep Singh is an Engineer by profession.
+
+[[about-this-book]]
+About this book
+~~~~~~~~~~~~~~~
+
+This book tries to explore the content of Japuji. This paper seeks to
+translate the morning prayer to an enquiring mind
+
+This book has been written in restructured text_ format and generated
+using the rst2html.py command line available from the
+http://docutils.sourceforge.net/[docutils] python package.
+
+If you want to rebuild the html output, from the top directory, type:
+
+[source,sourceCode,]
+----
+$ rst2html.py --link-stylesheet --cloak-email-addresses \
+              --toc-top-backlinks --stylesheet=book.css \
+              --stylesheet-dirs=. book.rst book.html
+----
+
+[[prerequisites]]
+Prerequisites
+^^^^^^^^^^^^^
+
+[[conventions]]
+Conventions
+^^^^^^^^^^^
+
+[[how-to-contribute]]
+How to contribute
+^^^^^^^^^^^^^^^^^
+
+[[publishing]]
+Publishing
+^^^^^^^^^^
+
+[[license]]
+License
+~~~~~~~
+
+*Book*
+
+This work is licensed under a
+https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons
+Attribution-Non Commercial-Share Alike 4.0 International License]. You
+are free to:
+
+* *Share* — copy and redistribute the material in any medium or format
+* *Adapt* — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the
+license terms.
+
+*Code*
+
+The code is licensed under the link:LICENSE-code.txt[OSI-approved BSD
+2-Clause License].

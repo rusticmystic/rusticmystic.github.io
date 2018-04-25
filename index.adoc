@@ -1,0 +1,29 @@
+= RusticMystic
+
+[quote, RusticMystic]
+____
+When Shall We Meet Again ..
+____
+
+:home: index.html[Home]
+:bookrst: index_rst.html[Book Sample 1]
+:bookadoc: index_rst.html[Book Sample 2]
+
+[.main-menu]
+|===
+|link:{home}|link:{bookrst}|link:{bookadoc}
+|===
+
+  
+== Welcome
+
+Folks! +
+Here I host my free content on the github powered static website.
+
+== Pages
+
+The links of my other blogs are:
+
+https://www.rusticmystic.weebly.com[Musings of a mystic mind^] +
+https://www.rusticmystic.blogspot.com[Blogspot^]
+

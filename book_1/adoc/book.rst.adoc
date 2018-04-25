@@ -1,0 +1,30 @@
+[[sachi-taksaal---japji-sahib]]
+Sachi Taksaal - Japji Sahib
+---------------------------
+
+[[copyright-c-2017---shivdeep-singh-manhasshivdeepgmail.com]]
+Copyright (c) 2017 - Shivdeep Singh <manhasshivdeep@gmail.com>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:data/cc.large.png[image,width=40]
+
+image:data/by.large.png[image,width=40]
+
+image:data/sa.large.png[image,width=40]
+
+image:data/nc.large.png[image,width=40]
+
+| | Latest version - |date| |
+
+image:data/Guru_Ji.png[image,scaledwidth=100.0%]
+
+This is a Sample Book. Designed in restructured text.
+
+[[section]]
+
+.. include:: 
+
+*Disclaimer:* All external pictures should have associated credits. If
+there are missing credits, please tell me, I will correct it. Similarly,
+all excerpts should be sourced (wikipedia mostly). If not, this is an
+error and I will correct it as soon as you tell me.

@@ -1,0 +1,30 @@
+[[references]]
+References
+----------
+
+[[demo-usage]]
+Demo Usage
+~~~~~~~~~~
+
+This is how to quote Name of Book 1_ . Is this correct?
+
+[[books]]
+Books
+~~~~~
+
+* Name of Book 1_ +
+Writer, Publisher, 2017
++
+Description of Book
+* Name of Book 2_ +
+Writer, Publisher, 2017.
++
+Description of Book
+
+[[credits-for-formatting]]
+Credits for formatting
+~~~~~~~~~~~~~~~~~~~~~~
+
+I am thankful to Nicolas P. Rougier for the fonts and stylesheets. Book
+formatting is inspired from his open source book.
+https://github.com/rougier/from-python-to-numpy
